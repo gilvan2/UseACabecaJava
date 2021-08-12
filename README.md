@@ -20,6 +20,10 @@ rodar o comando javac arquivo.java
 Será criado um arquivo.class 
 rodar comando java arquivo
 
+Guia de Referencia do terminal
+mkdir - Criar diretório
+
+
 Guia de Referencia vim
 
 i -> Entra no modo de inserção
