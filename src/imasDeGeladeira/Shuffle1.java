@@ -6,20 +6,17 @@ class Shuffle1{
 		{
 			if( x > 2 )
 			{
-				System.out.print("a");
+				System.out.print("a-");
 			}
-			if( x == 2)
+			else if( x == 2)
 			{
-				System.out.print("b c");
+				System.out.print("b c-");
 			}
-			if( x == 1 )
+			else if( x == 1 )
 			{
-				System.out.print("d");
+				System.out.print("d\n");
 			}
-
-			x = x -1;
-
-			System.out.print("-");
+			x--;
 		}
 	}
 }
