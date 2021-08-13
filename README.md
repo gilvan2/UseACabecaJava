@@ -26,6 +26,10 @@ rodar comando java arquivo \n
 
 Guia de Referencia do terminal
 
+touch arquivo - Cria um arquivo caso não exista e atualiza a data da ultima atualização caso exista arquivo com aquele nome
+
+cat arquivo - Mostra no terminal o conteúdo do arquivo 
+
 mkdir nome  - Criar diretório
 
 cp local/arquivo local - Copiar arquivo e cola em outro  local
