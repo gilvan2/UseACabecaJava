@@ -2,29 +2,29 @@ class PoolPuzzleOne {
 
 	public static void main (String[] args){
 		int x = 0;
-		while (//Condição)
+		while (x < 4)
 		{
-			//Alguma coisa
-			if(x < 1)
+			System.out.print("a ")
+			if(x > 1)
 			{
-				//Alguma coisa
+				System.out.print("n");
 			}
-			//Alguma coisa
-			if(//Alguma coisa)
+			System.out.print("oise")
+			if()
 			{
-				//Alguma coisa
-				//Alguma coisa
+				System.out.print(" ");
+				System.out.print("annoys")
 			}
 			if(x == 1)
 			{
-				//Alguma coisa
+				System.out.ptint("an");
 			}
 			if(//Alguma coisa)
 			{
-				//Alguma coisa
+				System.out.print(" oyster");
 			}
 			System.out.println("");
-			//Alguma coisa
+			x = x + 1;
 		}
 	}
 }

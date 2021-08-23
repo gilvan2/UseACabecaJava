@@ -1,0 +1,2 @@
+Ainda falta implementar as classes PalavraCruzada.java
+e PoolPuzzleOne.java por que no livro, esses exercicios são interativo e por esse motivo, precisam ser adaptados para um formato válido para esse projeto
